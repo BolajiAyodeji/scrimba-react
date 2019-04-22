@@ -7,6 +7,8 @@ import Footer from "./components/Footer"
 function App() {
     return (
     <div>
+      <Header />
+        
       <input type="checkbox" />
       <p>Cook</p>
       
@@ -18,6 +20,9 @@ function App() {
       
       <input type="checkbox" />
       <p>Eat</p>
+        
+      <MainContent />
+      <Footer />
    </div>
     )
 }
