@@ -7,14 +7,15 @@ function App() {
     <div>
       <input type="checkbox" />
       <p>Cook</p>
+      
       <input type="checkbox" />
       <p>Sing</p>
+      
       <input type="checkbox" />
       <p>Dance</p>
+      
       <input type="checkbox" />
       <p>Eat</p>
-      <input type="checkbox" />
-      <p>Pray</p>
    </div>
     )
 }
